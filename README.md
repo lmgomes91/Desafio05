@@ -54,3 +54,10 @@ ser armazenada dentro de um objeto com o formato como o seguinte:
   }
 }
 ```
+
+
+## Para executar: 
+
+Digitar no terminal: *yarn dev:server*
+Utilizando o insomnia, crie as rotas a partir no endereço *http://localhost:3333/transactions*
+Não se esqueça do corpo da requisição na rota POST
